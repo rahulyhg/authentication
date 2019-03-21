@@ -1,0 +1,19 @@
+{
+    "name": "chaincszzz/authentication",
+    "description": "php authentication",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "namestc",
+            "email": "namestc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Chaincszzz\\Authentication\\":"src/"
+        }
+    }
+}
